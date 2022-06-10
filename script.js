@@ -1,5 +1,3 @@
-console.log("hey");
-
 const buttons = document.querySelectorAll("button");
 const content = document.querySelectorAll(".content");
 
